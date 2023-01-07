@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-ABC
-=======
-ABCD
->>>>>>> fc61a4595fd5a981009b63bdf0570a386fee6df0
+A
+HOGE
+PIYO
+D
